@@ -2,9 +2,9 @@
 #include <stdlib.h>
 
 
-#define R1 2 
-#define C1 2 
-#define R2 2 
+#define R1 3 
+#define C1 3 
+#define R2 3 
 #define C2 3 
 
 void multiplyMatrix(int m1[][C1], int m2[][C2])
